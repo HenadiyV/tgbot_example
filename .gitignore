@@ -1,0 +1,6 @@
+.idea
+node_modules
+config/default.json
+config/prodaction.json
+.vscode
+voices/1051507875.mp3
